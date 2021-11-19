@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, my name is Derek Martins and I'm passionate about computing, especially Data Analysis, Machine Learning and Optimization :green_heart:.
+
+### I'm currently learning Julia Lang to implement some Optimization Techniques and contribute to Community.
+
 
 <!--
 **computacaodidatica/computacaodidatica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
